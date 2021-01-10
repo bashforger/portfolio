@@ -12,7 +12,7 @@
    viewBox="0 0 50 50"
    version="1.1"
    id="svg4"
-   sodipodi:docname="linkedin-cilrcle.svg"
+   sodipodi:docname="iconmonstr-boxed.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata10">
@@ -22,7 +22,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,16 +40,15 @@
      inkscape:window-height="842"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="4.8381963"
-     inkscape:cx="13.134236"
-     inkscape:cy="57.399308"
+     inkscape:zoom="10.457832"
+     inkscape:cx="0.77663878"
+     inkscape:cy="24.301579"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4"
-     inkscape:document-rotation="0" />
+     inkscape:current-layer="svg4" />
   <path
-     d="M 25,0 C 11.19375,0 0,11.19375 0,25 0,38.80625 11.19375,50 25,50 38.80625,50 50,38.80625 50,25 50,11.19375 38.80625,0 25,0 Z m -4.166667,33.333333 h -4.166666 v -12.5 h 4.166666 z M 18.75,18.977083 c -1.264583,0 -2.291667,-1.033333 -2.291667,-2.310416 0,-1.275 1.025,-2.310417 2.291667,-2.310417 1.266667,0 2.291667,1.035417 2.291667,2.310417 0,1.277083 -1.027084,2.310416 -2.291667,2.310416 z m 16.666667,14.35625 h -4.1625 v -5.960416 c 0,-3.91875 -4.170834,-3.5875 -4.170834,0 v 5.960416 h -4.166666 v -12.5 h 4.166666 v 2.277084 c 1.816667,-3.366667 8.333334,-3.616667 8.333334,3.225 z"
+     d="M 0,0 V 50 H 50 V 0 Z m 16.666667,39.583333 h -6.25 V 16.666667 h 6.25 z M 13.541667,14.025 c -2.0125,0 -3.6458337,-1.645833 -3.6458337,-3.675 0,-2.0291667 1.6333337,-3.675 3.6458337,-3.675 2.0125,0 3.645833,1.6458333 3.645833,3.675 0,2.029167 -1.63125,3.675 -3.645833,3.675 z m 28.125,25.558333 h -6.25 v -11.675 c 0,-7.016666 -8.333334,-6.485416 -8.333334,0 v 11.675 h -6.25 V 16.666667 h 6.25 v 3.677083 c 2.910417,-5.3875 14.583334,-5.785417 14.583334,5.158333 z"
      id="path2"
      style="stroke-width:2.08334" />
 </svg>
