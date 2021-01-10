@@ -443,11 +443,11 @@
         delay: -1
     })
 
-    t1.staggerFrom(".menu ul li", 3, {
+    t1.staggerFrom(".menu ul li", 2, {
         y: 50,
         opacity: 0,
         ease: Power4.easeInOut,
-    }, '0.1', '-0.01');
+    }, '0.1', '-0.1');
 
 
     t1.reverse();
